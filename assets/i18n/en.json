@@ -1,0 +1,61 @@
+{
+  "info": {
+    "welcome": "Welcome to Garoon Frontend Platform!"
+  },
+  "logo": {
+    "text": "Smart Farming Solutions"
+  },
+  "iot": {
+    "inovation": "Innovation should reach everyone... ",
+    "head": "Garoon is a ",
+    "thing": "thing",
+    "rest": "that makes a ",
+    "last": "difference",
+    "small": "small",
+    "big": "big",
+    "text": "We offer an IoT system making it possible to control various agriculture processes through a user-friendly mobile application by setting up a tiny and affordable computer in the garden (or other relevant territories)."
+  },
+  "field": {
+    "txt": "The potential possibilities of our automation system include, but are not limited to irrigation. For now, we are concentrated on the implementation of small single-board computers developed in the United Kingdom by the Raspberry Pi Foundation, but this might be changed and a custom one is possible to be manufactured when we go through all the steps of research and identify a concrete specification.",
+    "head": "Proof of Concept"
+  },
+  "vision": {
+    "head": "Our Vision",
+    "text": "We feel an immense desire for concentrating on the usage of IT tools in more down-to-earth aims. This makes us think of combining modern technologies with issues taking place during diverse daily activities of the global society. Only after solving a huge amount of underutilized troubles we have, we find it correct to concentrate on a creature of possibilities in totally new areas."
+  },
+  "team": {
+    "head": "Our Team",
+    "header": "You can have the best strategy and the best building in the world,\n        but if you don\n        't have the hearts and minds of the people who work with you, none of it comes to life\"",
+    "member_one": "Ayk Badalyan",
+    "Hayk": "LinkedIn guys doing something similar to him use to call their position CEO (Chief Executive Officer)",
+    "member_two": "Hrant Alaverdyan",
+    "Hrant": "The best role that will describe him when our team becomes bigger is the CTO (Chief Technology Officer)",
+    "member_three": "Davit Babayan",
+    "Davit": "When reaching our goals, we will proclaim him CDO (Chief Design Officer)",
+    "member_four": "Armen Chobanyan",
+    "Armen": "His personality and competences will make him a good suit for being our \u200BCOO (Chief Operating Officer)\u200B "
+  },
+  "contacts": {
+    "address": "Yerevan, Armenia  |  Innopolis, Russia",
+    "phone": "\nphone: +374 (77) 111-887 | +7 (999) 155-07-00 ",
+    "email": "email: info@garoon.tech"
+  },
+  "innovation": {
+    "txt": "Innovation should reach everyone..."
+  },
+  "footer": {
+    "head": "Feel free to share your thoughts and suggestions with us!",
+    "partners": "Programs we are involved in:"
+  },
+  "user_feadback": {
+    "user_one": "William McDonough | Architect,Designer",
+    "one": "The Stone Age did not end because humans ran out of stones. It ended because it was time for a re-think about how we live",
+     "user_two":"Manuela Zude-Sasse | Engineer at Leibniz Institute in Germany",
+    "two": "“If you can schedule harvest to optimum fruit development, then you can reap an economic benefit and a quality one",
+    "user_three": "Simon Blackmore | Engineer at Harper Adams University in UK",
+    "three": "“I believe, by moving to a robotic agricultural system, we can make crop production significantly more efficient and more sustainable\"",
+    "user_four": "Eldert van Henten | Engineer at Wageningen University",
+    "four": "“Humans are still better than robots, but there is a lot of effort going into automatic harvesting"
+  }
+
+}
