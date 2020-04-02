@@ -37,7 +37,7 @@
   },
   "contacts": {
     "address": "Yerevan, Armenia",
-    "phone": "\nphone: +374 (77) 111-887 | +374 (95) 944-434 ",
+    "phone": "\nphone: +374 (77) 111-887",
     "email": "email: "
   },
   "innovation": {
@@ -57,4 +57,5 @@
     "user_four": "Eldert van Henten | Engineer at Wageningen University",
     "four": "“Humans are still better than robots, but there is a lot of effort going into automatic harvesting"
   }
+
 }
