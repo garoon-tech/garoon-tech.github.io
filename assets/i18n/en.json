@@ -13,10 +13,10 @@
     "last": "difference",
     "small": "small",
     "big": "big",
-    "text": "We offer an IoT system making it possible to control various agriculture processes through a user-friendly mobile application by setting up a tiny and affordable computer in the garden (or other relevant territories)."
+    "text": "Garoon is a full-cycle smart irrigation system enabled with the Internet of Things, including software and hardware to monitor and control diverse critical cultivation parameters via an intuitive mobile application. The mission is to transform traditional, intuition-based agriculture into a precise, data-driven one."
   },
   "field": {
-    "txt": "The potential possibilities of our automation system include, but are not limited to irrigation. For now, we are concentrated on the implementation of small single-board computers developed in the United Kingdom by the Raspberry Pi Foundation, but this might be changed and a custom one is possible to be manufactured when we go through all the steps of research and identify a concrete specification.",
+    "txt": "One of the key features of Garoon Tech's solution is an integrated visual analysis module for the detection of plants’ diseases and deficiency symptoms - a digital platform connecting farmers with agronomists. The goal is to provide gardeners with affordable access to expert advice on what types and amounts of fertilizers (both natural and chemical) are needed to overcome the reported problem. The agronomists, on the other hand, are able to earn money remotely via this platform. The platform is aimed to solve the lack of communication between gardeners and industry specialists, overcoming the existing logistical problems.",
     "head": "Proof of Concept"
   },
   "vision": {
@@ -45,7 +45,7 @@
   },
   "footer": {
     "head": "Feel free to share your thoughts and suggestions with us!",
-    "partners": "Programs we are involved in:"
+    "partners": "Involvement"
   },
   "user_feadback": {
     "user_one": "William McDonough | Architect,Designer",
