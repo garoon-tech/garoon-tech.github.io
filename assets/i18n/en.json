@@ -25,7 +25,8 @@
   },
   "team": {
     "head": "Our Team",
-    "header": "You can have the best strategy and the best building in the world,\n        but if you don\n        't have the hearts and minds of the people who work with you, none of it comes to life\"",
+    "header": "“You can have the best strategy and the best building in the world, but if you don't have the hearts and minds of the people who work with you, none of it comes to life”",
+    "quote_author": " - Renee West",
     "member_one": "Ayk Badalyan",
     "Hayk": "LinkedIn guys doing something similar to him use to call their position CEO (Chief Executive Officer)",
     "member_two": "Hrant Alaverdyan",
@@ -45,17 +46,17 @@
   },
   "footer": {
     "head": "Feel free to share your thoughts and suggestions with us!",
-    "partners": "Involvement"
+    "partners": "Involvement / co-operation:"
   },
   "user_feadback": {
-    "user_one": "William McDonough | Architect,Designer",
-    "one": "The Stone Age did not end because humans ran out of stones. It ended because it was time for a re-think about how we live",
+    "user_one": "William McDonough | Architect, Designer",
+    "one": "“The Stone Age did not end because humans ran out of \nstones. It ended because it was time for a re-think about \nhow we live”",
      "user_two":"Manuela Zude-Sasse | Engineer at Leibniz Institute in Germany",
-    "two": "“If you can schedule harvest to optimum fruit development, then you can reap an economic benefit and a quality one",
+    "two": "“If you can schedule harvest to optimum fruit development, then you can reap an economic benefit and a quality one”",
     "user_three": "Simon Blackmore | Engineer at Harper Adams University in UK",
-    "three": "“I believe, by moving to a robotic agricultural system, we can make crop production significantly more efficient and more sustainable\"",
+    "three": "“I believe, by moving to a robotic agricultural system, we can make crop production significantly more efficient and more sustainable”",
     "user_four": "Eldert van Henten | Engineer at Wageningen University",
-    "four": "“Humans are still better than robots, but there is a lot of effort going into automatic harvesting"
+    "four": "“Humans are still better than robots, but there is a lot of effort going into automatic harvesting”"
   }
 
 }
