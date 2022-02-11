@@ -38,7 +38,7 @@
   },
   "contacts": {
     "address": "Yerevan, Armenia",
-    "phone": "\nphone: +374 (77) 111-887",
+    "phone": "\nphone: {REPLACE_WITH_NEW_PHONE_NUMBER}",
     "email": "email: "
   },
   "innovation": {
